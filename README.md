@@ -7,7 +7,7 @@ TODO: Write a gem description
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'libmyo'
+gem "libmyo"
 ```
 
 And then execute:
