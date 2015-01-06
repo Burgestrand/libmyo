@@ -13,4 +13,3 @@
 *.a
 mkmf.log
 bin/
-!bin/.gitkeep
